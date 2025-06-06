@@ -20,7 +20,7 @@ Build a system that can predict pricing for a mobile phone using data on availab
 - Confusion matrix and classification report included
 
 ## Notebook 
-All the code is in [`moblie phone price prediction.ipynb`](./mobile phone price prediction.ipynb)
+All the code is in [`moblie phone price prediction.ipynb`](https://github.com/Rehanair08/Predict-Mobile-Phone-Pricing/blob/main/Predict%20Moblie%20Phone%20Pricing.ipynb)
 
 ## 📌 Author
 [Reha](https://github.com/rehanair08)
